@@ -1,3 +1,7 @@
+// Emma Gabriela Alfaro de la Rocha
+// Emmanuel Humberto Solórzano Cabrera
+// Maximiliano Villegas García
+// Pablo Gutiérrez Costales 
 #include <iostream>
 using namespace std;
 
