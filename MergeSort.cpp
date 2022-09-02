@@ -65,7 +65,7 @@ void printArray(int A[], int size) {
 }
 
 int main() {
-  int A[] = {7, 1, 17, 9, 21, 2}; //{6, 5, 12, 10, 9, 1};
+  int A[] = {7, 1, 17, 9, 21, 2}; //{6, 5, 12, 10, 9, 1}; //{10, 40, 31, 1, 13, 7, 25};
   int size = sizeof(A) / sizeof(A[0]);
 
   mergeSort(A, 0, size - 1);
